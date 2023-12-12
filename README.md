@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajveer Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/111950194/216824073-87c829f0-135a-477c-a3b1-8c812db56f9c.png)"/>
+![image](https://user-images.githubusercontent.com/111950194/216824073-87c829f0-135a-477c-a3b1-8c812db56f9c.png)
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajveersingh8317&label=Profile%20views&color=0e75b6&style=flat" alt="rajveersingh8317" /> </p>
